@@ -1,7 +1,7 @@
 
 type MandatoryInterface {
-    name: string,
-    age: number,
+    name: string;
+    age: number;
     salary: number
 }
 
